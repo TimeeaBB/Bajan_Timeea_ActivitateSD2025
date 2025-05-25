@@ -21,5 +21,26 @@
     <ClCompile Include="Activitate_IndividualaSem1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitate_IndividualaSem2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SEminar_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar_8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
